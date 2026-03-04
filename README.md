@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👩‍💻 Xiomara Suescun Naziaque
 
-<!--
-**xiomarasues95-ops/xiomarasues95-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Analista de Datos | Data Analyst
 
-Here are some ideas to get you started:
+![Data Analytics Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format\&fit=crop\&w=1600\&q=80)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Sobre mí
+
+Soy **Analista de Datos** con una fuerte orientación a la interpretación estratégica de la información y la generación de insights accionables. Me apasiona transformar datos en conocimiento útil para la toma de decisiones, optimizar procesos y aportar valor real a las organizaciones.
+
+Me motiva formar parte de un **equipo profesional dinámico**, donde pueda contribuir con mis habilidades analíticas, seguir aprendiendo constantemente y participar en proyectos que generen impacto. 🚀
+
+---
+
+## 💡 Objetivo Profesional
+
+Busco seguir desarrollándome como profesional del análisis de datos, aportando soluciones basadas en evidencia, mejorando la eficiencia de los procesos y colaborando activamente en equipos multidisciplinares.
+
+Creo firmemente en el aprendizaje continuo, la colaboración y el poder de los datos para transformar organizaciones. ✨
+
+---
+
+## 🛠️ Tecnologías y Herramientas
+
+### 👩‍💻 Lenguajes de programación
+
+* 🐍 **Python**
+* 🗄️ **SQL**
+
+### 📚 Librerías y herramientas de análisis
+
+* 📊 pandas
+* 🔢 numpy
+* 📈 matplotlib
+* 📉 seaborn
+* 🧮 scipy
+* 🤖 scikit-learn
+
+---
+
+## 🌍 Idiomas
+
+* 🇪🇸 Español — Nativo
+* 🇬🇧 Inglés — Nivel B2
+
+---
+
+## 📫 Contacto
+
+* 📧 **Email:** [xiomarasues95@gmail.com](mailto:xiomarasues95@gmail.com)
+* 💼 **LinkedIn:** https://www.linkedin.com/in/xiomarasuescunn/
+* 💻 **GitHub:** https://github.com/xiomarasues95-ops
+---
