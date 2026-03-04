@@ -2,7 +2,7 @@
 
 ### 📊 Analista de Datos | Data Analyst
 
-![Data Analytics Banner](https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format\&fit=crop\&w=1600\&q=80)
+![Data Analytics Banner](https://media.licdn.com/dms/image/v2/D4E16AQGAgRgRN90yMg/profile-displaybackgroundimage-shrink_350_1400/B4EZy0pRFIIQAY-/0/1772557243579?e=1773878400&v=beta&t=n1XTnoVPhC0RPq0XNEEyvCX6nG828PCj-X1uZUzYEF8)
 
 ---
 
