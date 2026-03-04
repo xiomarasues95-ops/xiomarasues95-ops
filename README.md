@@ -12,6 +12,12 @@ Soy **Analista de Datos** con una fuerte orientación a la interpretación estra
 
 Me motiva formar parte de un **equipo profesional dinámico**, donde pueda contribuir con mis habilidades analíticas, seguir aprendiendo constantemente y participar en proyectos que generen impacto. 🚀
 
+🌟 About Me
+
+I am a Data Analyst with a strong focus on the strategic interpretation of information and generating actionable insights. I am passionate about turning data into useful knowledge for decision-making, optimizing processes, and delivering real value to organizations.
+
+I am motivated to be part of a dynamic professional team, where I can contribute my analytical skills, keep learning constantly, and participate in projects that create impact. 🚀
+
 ---
 
 ## 💡 Objetivo Profesional
@@ -20,16 +26,24 @@ Busco seguir desarrollándome como profesional del análisis de datos, aportando
 
 Creo firmemente en el aprendizaje continuo, la colaboración y el poder de los datos para transformar organizaciones. ✨
 
+## 💡 Professional Objective
+
+I aim to continue developing as a data analysis professional, providing evidence-based solutions, improving process efficiency, and actively collaborating in multidisciplinary teams.
+
+I strongly believe in continuous learning, collaboration, and the power of data to transform organizations. ✨
+
 ---
 
 ## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies and Tools
 
 ### 👩‍💻 Lenguajes de programación
-
+### 👩‍💻 Programming Languages
 * 🐍 **Python**
 * 🗄️ **SQL**
 
 ### 📚 Librerías y herramientas de análisis
+### 📚 Analysis Libraries and Tools
 
 * 📊 pandas
 * 🔢 numpy
@@ -41,6 +55,7 @@ Creo firmemente en el aprendizaje continuo, la colaboración y el poder de los d
 ---
 
 ## 🌍 Idiomas
+## 🌍 Languages
 
 * 🇪🇸 Español — Nativo
 * 🇬🇧 Inglés — Nivel B2
@@ -48,6 +63,7 @@ Creo firmemente en el aprendizaje continuo, la colaboración y el poder de los d
 ---
 
 ## 📫 Contacto
+## 📫 Contact
 
 * 📧 **Email:** [xiomarasues95@gmail.com](mailto:xiomarasues95@gmail.com)
 * 💼 **LinkedIn:** https://www.linkedin.com/in/xiomarasuescunn/
