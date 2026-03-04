@@ -12,7 +12,7 @@ Soy **Analista de Datos** con una fuerte orientación a la interpretación estra
 
 Me motiva formar parte de un **equipo profesional dinámico**, donde pueda contribuir con mis habilidades analíticas, seguir aprendiendo constantemente y participar en proyectos que generen impacto. 🚀
 
-🌟 About Me
+## 🌟 About Me
 
 I am a Data Analyst with a strong focus on the strategic interpretation of information and generating actionable insights. I am passionate about turning data into useful knowledge for decision-making, optimizing processes, and delivering real value to organizations.
 
