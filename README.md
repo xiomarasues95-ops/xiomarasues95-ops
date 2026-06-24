@@ -41,6 +41,7 @@ I strongly believe in continuous learning, collaboration, and the power of data 
 ### 👩‍💻 Programming Languages
 * 🐍 **Python**
 * 🗄️ **SQL**
+* 📊 **Tableau**
 
 ### 📚 Librerías y herramientas de análisis
 ### 📚 Analysis Libraries and Tools
