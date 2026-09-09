@@ -1,17 +1,22 @@
 # ¡Hola, soy Xiomara Suescun! 👋
 
-### Data Analyst Junior | Python · SQL · Tableau | Logística & Operaciones
+### Data Analyst | Operations & Logistics Analytics
+**SQL, Python, Power BI & Excel**  
+Turning Operational Data into Business Insights
 
 ---
 
-🌍 Profesional en **Negocios Internacionales** en transición hacia el **Análisis de Datos**.  
-Durante más de 3 años trabajé como Coordinadora de Logística Internacional y Back Office,  
-gestionando más de 70 clientes diarios, validando datos en CRM y capacitando equipos.
+## 📊 Sobre mí
 
-Fue trabajando en la parte operativa que me di cuenta de algo clave:  
-**los datos mal gestionados afectan directamente los KPIs de una empresa.**  
-Eso me motivó a tomar acción — a aprender, mejorar procesos y finalmente  
-dar el salto al mundo del análisis de datos completando un **Bootcamp en TripleTen**.
+Transformo datos en información útil para **mejorar operaciones y apoyar decisiones de negocio**.
+
+Soy **Data Analyst** con formación en **Negocios Internacionales** y experiencia en operaciones, logística y coordinación de procesos. Mi fortaleza es conectar el contexto del negocio con el análisis de datos para identificar oportunidades de mejora.
+
+💻 En mis proyectos utilizo **SQL, Python, Power BI y Excel** para limpiar y transformar datos, analizar tendencias y crear dashboards que faciliten el seguimiento de **KPIs** y comuniquen hallazgos con claridad.
+
+🚚 Me enfoco en analítica aplicada a **operaciones, logística y supply chain**, combinando experiencia operativa y habilidades técnicas para resolver preguntas de negocio.
+
+🎯 Busco oportunidades como **Data Analyst** u **Operations Analyst**.
 
 > *"La mejor pregunta que puedes hacerle a los datos viene de haber vivido el problema que describen."*
 
